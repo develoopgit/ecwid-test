@@ -100,6 +100,7 @@ label:hover{
   max-width: 100%;
   min-width: 100%;
   vertical-align: bottom;
+  cursor: pointer;
 }
 
 .img-grid.img-grid-margin {
@@ -135,6 +136,7 @@ label:hover{
     max-width: 100%;
     min-width: 100%;
     vertical-align: bottom;
+    
   }
 
   .img-grid.img-grid-margin {
