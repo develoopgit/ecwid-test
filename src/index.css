@@ -12,7 +12,7 @@ body{
   color: var(--secondary);
 }
 .App{
-  max-width: 960px;
+  max-width: 860px;
   margin: 0 auto;
 }
 .title h1{
@@ -72,10 +72,6 @@ label:hover{
 }
 
 /* image grid styles */
-
-
-
-
 .img-grid {
   display: flex;
   overflow: hidden;
